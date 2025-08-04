@@ -2,7 +2,7 @@ from flask import *
 from openai import *
 import json
 
-client = OpenAI(api_key="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")
+client = OpenAI()
 app = Flask(__name__)
 
 
