@@ -4,10 +4,10 @@ IngrediGenie is a web-based application designed to combat food waste by generat
 
 ## **Features**
 
-  - **AI-Powered Recipe Generation**: Generates unique recipes by leveraging the **OpenAI API** based on user-provided ingredients.
+  - **AI-Powered Recipe Generation**: Generates unique recipes by leveraging the OpenAI API based on user-provided ingredients.
   - **Dynamic User Interface**: Asynchronously updates the web page with the generated recipe without a full page reload.
   - **Responsive Design**: A clean, modern interface that works seamlessly on both desktop and mobile devices.
-  - **Smooth Animations**: Utilizes the **Intersection Observer API** for scroll-based fade-in animations, providing an elegant user experience.
+  - **Smooth Animations**: Utilizes the Intersection Observer API for scroll-based fade-in animations, providing an elegant user experience.
   - **Intuitive Layout**: Features a simple two-page flow, guiding users from the home page to the recipe generation tool effortlessly.
 
 ## **Technologies**
@@ -22,17 +22,11 @@ IngrediGenie is a web-based application designed to combat food waste by generat
   - **API**:
       - **OpenAI API**: Used for AI-driven recipe generation.
 
-## **Live Demo**
-
-Experience IngrediGenie for yourself by visiting the live demo:
-
-[**IngrediGenie**](https://ingredigenie.pythonanywhere.com/)
-
 ## **Usage**
 
-1.  Navigate to the home page of the live demo and click **"Get Started"** to go to the recipe generation page.
+1.  Navigate to the home page of the live demo and click "Get Started" to go to the recipe generation page.
 2.  In the text area, list the ingredients you have available (e.g., "chicken, broccoli, pasta, garlic").
-3.  Click the **"Get Recipe Ideas\!"** button.
+3.  Click the "Get Recipe Ideas\!" button.
 4.  The application will call the OpenAI API and display a unique recipe card on the page.
 
 ## **Project Structure**
@@ -53,6 +47,10 @@ Experience IngrediGenie for yourself by visiting the live demo:
   - **`app.py`**: The main Flask application file.
   - **`templates/`**: Contains the HTML files for the website.
   - **`static/`**: Stores static assets like stylesheets and images.
+
+## **Live Demo**
+
+Experience IngrediGenie for yourself by visiting the live demo at [https://ingredigenie.pythonanywhere.com/](https://ingredigenie.pythonanywhere.com/).
 
 ## **License**
 
