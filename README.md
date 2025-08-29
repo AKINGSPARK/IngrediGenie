@@ -1,4 +1,4 @@
-# IngrediGenie
+# IngrediGenie 
 
 IngrediGenie is a web-based application designed to combat food waste by generating creative recipes from ingredients you already have in your pantry. Built as a solo hackathon project, IngrediGenie empowers users to turn what might otherwise be wasted food into delicious meals, making sustainable cooking both easy and inspiring.
 
